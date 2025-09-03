@@ -82,3 +82,5 @@
 
 - Observabilidad: Registro estructurado, métricas y trazas para diagnosticar y
   entender el comportamiento en producción.
+
+  > ## Versión refactorizada [Repo](https://github.com/lmbd92/refactored-project)
