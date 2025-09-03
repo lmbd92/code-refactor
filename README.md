@@ -1,4 +1,6 @@
-# Informe técnico de revisión de [app.ts](app.ts)
+# Bloque 1 - Etapa 2: Revisión y Refactor de Código - parte A
+
+## Informe técnico de revisión de [app.ts](app.ts)
 
 > Resumen: Se analizaron las ~100 líneas visibles de app.ts (extracto provisto).
 > Se identifican 22 problemas concretos que afectan principios SOLID, Clean
